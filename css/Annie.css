@@ -1804,21 +1804,6 @@ main {
   -o-transition: all 2s ease-in-out 0s;
   transition: all 2s ease-in-out 0s;
 }
-.animation-scroll-down {
-  position: relative;
-  -webkit-animation-name: scroll-down-effect;
-  -webkit-animation-duration: 2s;
-  -webkit-animation-timing-function: linear;
-  -webkit-animation-delay: 0s;
-  -webkit-animation-iteration-count: infinite;
-  -webkit-animation-play-state: running;
-  animation-name: scroll-down-effect;
-  animation-duration: 2s;
-  animation-timing-function: linear;
-  animation-delay: 0s;
-  animation-iteration-count: infinite;
-  animation-play-state: running;
-}
 .text-shadow-pop-top {
   -webkit-animation: text-shadow-pop-top 0.6s both;
   animation: text-shadow-pop-top 0.6s both;
