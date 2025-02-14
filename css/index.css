@@ -4111,6 +4111,9 @@ figure.highlight pre .javascript .function {
 #post .ads-wrap {
   margin: 40px 0;
 }
+p {
+  text-indent: 2em;
+}
 .relatedPosts {
   margin-top: 40px;
 }
